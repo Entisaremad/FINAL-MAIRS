@@ -737,5 +737,6 @@ model-viewer {
     padding: 5px 10px;
     cursor: pointer;
     border-radius: 5px;
+      z-index: 1;
 }
 /*END 3D STYLING*/
